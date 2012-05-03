@@ -1,0 +1,33 @@
+<?xml version="1.0"?><!--Commentss: XmlWriter Test Program-->
+<ColorList>
+  <Range>
+    <Min>1</Min>
+    <Max>10</Max>
+    <Color>#FF0033</Color>
+    <Transparency>0.3</Transparency>
+  </Range>
+  <Range>
+    <Min>10</Min>
+    <Max>20</Max>
+    <Color>green</Color>
+    <Transparency>0.3</Transparency>
+  </Range>
+  <Range>
+    <Min>20</Min>
+    <Max>30</Max>
+    <Color>yellow</Color>
+    <Transparency>0.3</Transparency>
+  </Range>
+  <Range>
+    <Min>30</Min>
+    <Max>40</Max>
+    <Color>silver</Color>
+    <Transparency>0.5</Transparency>
+  </Range>
+  <Range>
+    <Min>40</Min>
+    <Max>50</Max>
+    <Color>blue</Color>
+    <Transparency>0.5</Transparency>
+  </Range>
+</ColorList>

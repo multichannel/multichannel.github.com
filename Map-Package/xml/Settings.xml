@@ -1,0 +1,10 @@
+<?xml version="1.0"?><!--Commentss: XmlWriter Test Program-->
+<Settings>
+  <MapSetting>
+    <Lat>24.886436490787712</Lat>
+    <Lng>80.2685546875</Lng>
+    <Zoom>2</Zoom>
+    <MapType>roadmap</MapType>
+    <HiglighAllContinents>false</HiglighAllContinents>
+  </MapSetting>
+</Settings>
