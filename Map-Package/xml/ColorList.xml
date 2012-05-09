@@ -3,7 +3,7 @@
   <Range>
     <Min>1</Min>
     <Max>10</Max>
-    <Color>#FF0033</Color>
+    <Color>blue</Color>
     <Transparency>0.3</Transparency>
   </Range>
   <Range>
@@ -25,9 +25,16 @@
     <Transparency>0.5</Transparency>
   </Range>
   <Range>
-    <Min>40</Min>
-    <Max>50</Max>
-    <Color>blue</Color>
+    <Min>100</Min>
+    <Max>120</Max>
+    <Color>red</Color>
     <Transparency>0.5</Transparency>
   </Range>
+  <Range>
+    <Min>120</Min>
+    <Max>200</Max>
+    <Color>red</Color>
+    <Transparency>1</Transparency>
+  </Range>
+
 </ColorList>

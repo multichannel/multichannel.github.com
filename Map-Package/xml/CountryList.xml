@@ -1,71 +1,65 @@
 <?xml version="1.0"?><!--Commentss: XmlWriter Test Program-->
 <CountryList>
-  <country>
-    <Code>CHI</Code>
-    <Name>China</Name>
-    <DataValue>3</DataValue>
-    <LandMarkType>ICON</LandMarkType>
-    <Description>China Data</Description>
-  </country>
-  <country>
-    <Code>HOK</Code>
-    <Name>Hong Kong</Name>
-    <DataValue>45</DataValue>
-    <Description> Data</Description>
-  </country>
-  <country>
-    <Code>MAC</Code>
-    <Name>Macau</Name>
-    <DataValue>25</DataValue>
-    <LandMarkType>ICON</LandMarkType>
-    <Description>Description</Description>
-  </country>
+  <!-- <country> -->
+  <!--   <Code>CHI</Code> -->
+  <!--   <Name>China</Name> -->
+  <!--   <DataValue>3</DataValue> -->
+  <!--   <LandMarkType>ICON</LandMarkType> -->
+  <!--   <Description>China Data</Description> -->
+  <!-- </country> -->
+  <!-- <country> -->
+  <!--   <Code>HOK</Code> -->
+  <!--   <Name>Hong Kong</Name> -->
+  <!--   <DataValue>45</DataValue> -->
+  <!--   <Description> Data</Description> -->
+  <!-- </country> -->
+  <!-- <country> -->
+  <!--   <Code>MAC</Code> -->
+  <!--   <Name>Macau</Name> -->
+  <!--   <DataValue>25</DataValue> -->
+  <!--   <LandMarkType>ICON</LandMarkType> -->
+  <!--   <Description>Description</Description> -->
+  <!-- </country> -->
   <country>
     <Code>RUS</Code>
     <Name>Russia</Name>
-    <DataValue>14</DataValue>
+    <DataValue>100</DataValue>
     <Description>Description</Description>
-  </country>
-  <country>
-    <Code>CAN</Code>
-    <Name>Canada</Name>
-    <DataValue>33</DataValue>
-    <Description>Canada</Description>
   </country>
   <country>
     <Code>USA</Code>
     <Name>United States</Name>
-    <DataValue> 23</DataValue>
+    <DataValue>1</DataValue>
     <Description>USA</Description>
   </country>
   <country>
     <Code>EUR</Code>
     <Name>Europe</Name>
-    <DataValue>3</DataValue>
+    <DataValue>1</DataValue>
     <Description>Europe</Description>
   </country>
-  <country>
-    <Code>UK</Code>
-    <Name>United Kingdom</Name>
-    <DataValue>13</DataValue>
-    <Description>UK</Description>
-  </country>
-  <country>
-    <Code>IRE</Code>
-    <Name>Ireland</Name>
-    <DataValue> 43</DataValue>
-    <Description>Ireland</Description>
-  </country>
-  <country>
-    <Code>AFR</Code>
-    <Name>Africa</Name>
-    <DataValue>33</DataValue>
-    <Description>Africe</Description>
-  </country>
-  <country>
-    <Code>SA</Code>
-    <Name>South America</Name>
-    <DataValue>41</DataValue>
-    <Description>South America</Description>
-  </country>
+  <!-- <country> -->
+  <!--   <Code>UK</Code> -->
+  <!--   <Name>United Kingdom</Name> -->
+  <!--   <DataValue>13</DataValue> -->
+  <!--   <Description>UK</Description> -->
+  <!-- </country> -->
+  <!-- <country> -->
+  <!--   <Code>IRE</Code> -->
+  <!--   <Name>Ireland</Name> -->
+  <!--   <DataValue> 43</DataValue> -->
+  <!--   <Description>Ireland</Description> -->
+  <!-- </country> -->
+  <!-- <country> -->
+  <!--   <Code>AFR</Code> -->
+  <!--   <Name>Africa</Name> -->
+  <!--   <DataValue>33</DataValue> -->
+  <!--   <Description>Africe</Description> -->
+  <!-- </country> -->
+  <!-- <country> -->
+  <!--   <Code>SA</Code> -->
+  <!--   <Name>South America</Name> -->
+  <!--   <DataValue>41</DataValue> -->
+  <!--   <Description>South America</Description> -->
+  <!-- </country> -->
 </CountryList>
