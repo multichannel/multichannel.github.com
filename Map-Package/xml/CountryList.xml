@@ -1,18 +1,18 @@
 <?xml version="1.0"?><!--Commentss: XmlWriter Test Program-->
 <CountryList>
-  <!-- <country> -->
-  <!--   <Code>CHI</Code> -->
-  <!--   <Name>China</Name> -->
-  <!--   <DataValue>3</DataValue> -->
-  <!--   <LandMarkType>ICON</LandMarkType> -->
-  <!--   <Description>China Data</Description> -->
-  <!-- </country> -->
-  <!-- <country> -->
-  <!--   <Code>HOK</Code> -->
-  <!--   <Name>Hong Kong</Name> -->
-  <!--   <DataValue>45</DataValue> -->
-  <!--   <Description> Data</Description> -->
-  <!-- </country> -->
+  <country>
+    <Code>CHI</Code>
+    <Name>China</Name>
+    <DataValue>1</DataValue>
+    <LandMarkType>ICON</LandMarkType>
+    <Description>China Data</Description>
+  </country>
+  <country>
+    <Code>HOK</Code>
+    <Name>Hong Kong</Name>
+    <DataValue>1</DataValue>
+    <Description> Data</Description>
+  </country>
   <!-- <country> -->
   <!--   <Code>MAC</Code> -->
   <!--   <Name>Macau</Name> -->
